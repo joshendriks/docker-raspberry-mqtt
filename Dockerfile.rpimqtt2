@@ -1,0 +1,8 @@
+FROM resin/armv7hf-debian
+
+# Install mosquitto
+#RUN apt-get update
+RUN apt-get install mosquitto
+
+# Expose port 1883
+EXPOSE 1883
