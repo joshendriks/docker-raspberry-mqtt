@@ -1,0 +1,10 @@
+{  
+   "image":"joshendriks/armv7hf-debian-mqtt",
+   "baseimage":"resin/armv7hf-debian",
+   "tags":[  
+      "latest",
+      "jessie",
+      "wheezy",
+      "sid"
+   ]
+}
