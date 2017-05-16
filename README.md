@@ -1,7 +1,7 @@
 # joshendriks/armv7hf-debian-mqtt
 Docker wrapper for mqtt on a raspberry pi
 
-![](http://dockeri.co/image/joshendriks/joshendriks/armv7hf-debian-mqtt)
+![](http://dockeri.co/image/joshendriks/armv7hf-debian-mqtt)
 
 ## Usage
 
